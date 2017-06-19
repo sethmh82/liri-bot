@@ -1,0 +1,19 @@
+{
+  "name": "Liri Bot",
+  "version": "2.0.0",
+  "description": "Liri Bot",
+  "main": "liri.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Seth Harden",
+  "license": "ISC",
+  "dependencies": {
+    "spotify": "^0.3.0",
+    "twitter": "^1.2.5"
+  }
+  "bugs": {
+    "url": "https://github.com/sethmh82/liri-bot/issues"
+  },
+  "homepage": "https://github.com/sethmh82/liri-bot#readme"
+}
